@@ -6,7 +6,7 @@
 [![license](https://img.shields.io/badge/license-proprietary-ff7070?style=flat-square)](#лицензия)
 [![mirror](https://img.shields.io/badge/mirror-yep.my.to-8a99b3?style=flat-square)](https://yep.my.to/)
 
-Живая инстанса: **<https://iam.sos.al/>** · зеркало: **<https://yep.my.to/>**
+Живая инстанса: **<https://iam.sos.al/>** · зеркало: **<https://yep.my.to/>** ОСНОВНОЙ АДРЕС: **<https://p.kfwl.lol>**
 
 ---
 
